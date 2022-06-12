@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - meta</title>
+	<link href="https://0adb.github.io/topic/meta/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://0adb.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-05-22T00:00:00+00:00</updated>
+	<id>https://0adb.github.io/topic/meta/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Hello, World!</title>
+		<published>2022-05-22T00:00:00+00:00</published>
+		<updated>2022-05-22T00:00:00+00:00</updated>
+		<link href="https://0adb.github.io/blog/000-hello-world/" type="text/html"/>
+		<id>https://0adb.github.io/blog/000-hello-world/</id>
+		<content type="html">&lt;p&gt;This is my first blog post. This is primarily a placeholder while I work on actual content, but I&#x27;ll take the time here to declare my intent for these blogs:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I&#x27;d like them to be semi-professional, or at least to be comfortable sharing these blogs with, say, a prospective recruiter.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;I&#x27;d like these to skew a bit technical in focus. Specifically my initial idea for these blogs is to write code for fun, then, if I feel like it, talk about it on these blogs.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This is all I&#x27;ve come up with currently. Here&#x27;s to hoping that this isn&#x27;t my last post. &lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Subtitle is a reference to a book title that I enjoy, called  &lt;em&gt;Are You There God? It&#x27;s Me, Margaret&lt;&#x2F;em&gt;, by Judy Blume. I haven&#x27;t read the book, but I find the title neat. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://0adb.github.io/sitemap.xml

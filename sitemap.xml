@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://0adb.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://0adb.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://0adb.github.io/blog/000-hello-world/</loc>
+        <lastmod>2022-05-22</lastmod>
+    </url>
+    <url>
+        <loc>https://0adb.github.io/topic/</loc>
+    </url>
+    <url>
+        <loc>https://0adb.github.io/topic/meta/</loc>
+    </url>
+</urlset>
